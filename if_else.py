@@ -80,5 +80,3 @@ while user1 != "Hi" and pass1 != "11":
     pass1 = input("Enter password: ")   
 '''
 
-while x == 0
-    user = input("Enter Your Name ")
