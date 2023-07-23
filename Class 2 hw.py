@@ -1,3 +1,4 @@
+#if-else homework
 score = int(input("Enter your grade: "))
 
 if score >= 80:
